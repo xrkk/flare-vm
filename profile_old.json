@@ -29,6 +29,9 @@
         {"name": "windbg.pykd.flare"},
         {"name": "scdbg.flare"},
 
+
+        {"name": "idafree70.flare", "x64Only": true},
+        {"name": "idafree.flare"},
         {"name": "binaryninja.flare"},
         {"name": "radare2.flare"},
         {"name": "cutter.flare"},
@@ -56,6 +59,7 @@
         {"name": "ffdec.flare"},
 
         {"name": "metasploit.flare"},
+        {"name": "kali_windowsbinaries.flare"},
 
         {"name": "volatility.flare", "x64Only": true},
 
@@ -75,9 +79,11 @@
         {"name": "notepadplusplus.flare"},
 
         {"name": "unxutils"},
+        {"name": "farmanager.flare"},
         {"name": "checksum"},
         {"name": "7zip.flare"},
         {"name": "lessmsi.fireeye"},
+        {"name": "putty"},
         {"name": "wireshark.flare"},
         {"name": "nmap.flare"},
         {"name": "winpcap"},
@@ -111,7 +117,9 @@
         {"name": "pdfparser.flare"},
         {"name": "pdfstreamdumper.flare"},
 
+        {"name": "vim.flare"},
         {"name": "cygwin.flare"},
+        {"name": "burp.free.flare"},
         {"name": "retdec.flare"},
         {"name": "MAP.flare"},
         {"name": "SysAnalyzer.flare"},
