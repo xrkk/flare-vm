@@ -34,6 +34,8 @@
         {"name": "scdbg.flare"},
 
 
+        {"name": "idafree70.flare", "x64Only": true},
+        {"name": "idafree.flare"},
         {"name": "binaryninja.flare"},
         {"name": "radare2.flare"},
         {"name": "cutter.flare"},
@@ -86,9 +88,11 @@
 
         {"name": "SilkETW.fireeye"},
         {"name": "unxutils"},
+        {"name": "farmanager.flare"},
         {"name": "checksum"},
         {"name": "7zip.flare"},
         {"name": "lessmsi.fireeye"},
+        {"name": "putty"},
         {"name": "wireshark.flare"},
         {"name": "nmap.flare"},
         {"name": "winpcap"},
@@ -131,7 +135,9 @@
 
         {"name": "nasm.fireeye"},
 
+        {"name": "vim.flare"},
         {"name": "cygwin.flare"},
+        {"name": "burp.free.flare"},
         {"name": "retdec.flare"},
         {"name": "MAP.flare"},
         {"name": "SysAnalyzer.flare"},
